@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="40c4de21-48f1-4e45-a546-5b14a0ffeb3c" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/analysis.py" afterPath="$PROJECT_DIR$/analysis.py" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/DataStorm$test.coverage" NAME="test Coverage Results" MODIFIED="1506303544688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DataStorm$analysis.coverage" NAME="analysis Coverage Results" MODIFIED="1507501643778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DataStorm$spark_test.coverage" NAME="spark_test Coverage Results" MODIFIED="1508734446292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Data_Exploration$spark_test.coverage" NAME="spark_test Coverage Results" MODIFIED="1508808063613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Data_Exploration$analysis.coverage" NAME="analysis Coverage Results" MODIFIED="1508801626914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DataStorm$load_data.coverage" NAME="load_data Coverage Results" MODIFIED="1506236789158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="spark_test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spark_  module/spark_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1278">
+              <caret line="71" column="0" lean-forward="true" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+                <marker date="1508808063603" expanded="true" signature="807:829" ph="SELECT text tweet" />
+                <marker date="1508808063603" expanded="true" signature="861:911" ph="SELECT con F... tweet" />
+                <marker date="1508808063603" expanded="true" signature="861:912" ph="SELECT COUNT... tweet" />
+                <marker date="1508808063603" expanded="true" signature="861:930" ph="SELECT user.... tweet" />
+                <marker date="1508808063603" expanded="true" signature="2103:2171" ph="SELECT user_... uid_tid_word" />
+                <marker date="1508808063603" expanded="true" signature="2103:2202" ph="SELECT user_... uid_tid_word" />
+                <marker date="1508808063603" expanded="true" signature="2533:2598" ph="SELECT user.... tweetdataframe" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="filter_data.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/filter_data.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-330">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="export_userprofile.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/export_userprofile.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-258">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#16#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="analysis.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/analysis.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-216">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#16#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/text.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/export_userprofile.py" />
+        <option value="$PROJECT_DIR$/tweet.py" />
+        <option value="$PROJECT_DIR$/load_data.py" />
+        <option value="$PROJECT_DIR$/filter_data.py" />
+        <option value="$PROJECT_DIR$/spark_test.py" />
+        <option value="$PROJECT_DIR$/spark_  module/spark_test.py" />
+        <option value="$PROJECT_DIR$/analysis.py" />
+        <option value="$PROJECT_DIR$/analysis.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-13" />
+    <option name="y" value="-4" />
+    <option name="width" value="1276" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Data_Exploration" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Data_Exploration" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spark_test.py" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/spark_  module" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.spark_test">
+    <configuration name="analysis" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DataStorm" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/analysis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="load_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DataStorm" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/load_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="spark_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DataStorm" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spark_  module/spark_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DataStorm" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Python.load_data" />
+      <item index="1" class="java.lang.String" itemvalue="Python.analysis" />
+      <item index="2" class="java.lang.String" itemvalue="Python.test" />
+      <item index="3" class="java.lang.String" itemvalue="Python.spark_test" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.spark_test" />
+        <item index="1" class="java.lang.String" itemvalue="Python.analysis" />
+        <item index="2" class="java.lang.String" itemvalue="Python.test" />
+        <item index="3" class="java.lang.String" itemvalue="Python.load_data" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40c4de21-48f1-4e45-a546-5b14a0ffeb3c" name="Default" comment="" />
+      <created>1506194093174</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1506194093174</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-13" y="-4" width="1303" height="780" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21593626" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32988048" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33281493" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24940239" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3281493" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37209302" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26976743" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24940239" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="7" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00000-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
+    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00001-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
+    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00002-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
+    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00003-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
+    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00004-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
+    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00005-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
+    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00006-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
+    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00007-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
+    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00008-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
+    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00009-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
+    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00010-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
+    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00011-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
+    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00012-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
+    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00013-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
+    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00014-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
+    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00015-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
+    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00016-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
+    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00017-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
+    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00018-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
+    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00019-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
+    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00020-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
+    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00021-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
+    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00022-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
+    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00023-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
+    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00024-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
+    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00025-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
+    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00026-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
+    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00027-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
+    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00028-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
+    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00029-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
+    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00030-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
+    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00032-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
+    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00034-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
+    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00035-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
+    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00037-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
+    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00040-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
+    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00039-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
+    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00038-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
+    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00036-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
+    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00033-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
+    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00031-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
+    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_text.json/part-00000-2874c812-bc05-48af-b8f6-9612801bf128-c000.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="31" lean-forward="false" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spark-warehouse/splited_uid_tid_word.json/part-00000-355e484f-45b0-4616-af96-a0ea22909c9e-c000.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3276">
+          <caret line="7" column="31" lean-forward="false" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00002-2fe5c2dd-2003-4f3b-8f41-d87cdf2dc972-c000.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-11592">
+          <caret line="173" column="63" lean-forward="false" selection-start-line="173" selection-start-column="63" selection-end-line="173" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00003-2fe5c2dd-2003-4f3b-8f41-d87cdf2dc972-c000.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="854" column="62" lean-forward="false" selection-start-line="854" selection-start-column="62" selection-end-line="854" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00001-2fe5c2dd-2003-4f3b-8f41-d87cdf2dc972-c000.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4108">
+          <caret line="601" column="79" lean-forward="true" selection-start-line="601" selection-start-column="79" selection-end-line="601" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spark_  module/spark_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1278">
+          <caret line="71" column="0" lean-forward="true" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+            <marker date="1508808063603" expanded="true" signature="807:829" ph="SELECT text tweet" />
+            <marker date="1508808063603" expanded="true" signature="861:911" ph="SELECT con F... tweet" />
+            <marker date="1508808063603" expanded="true" signature="861:912" ph="SELECT COUNT... tweet" />
+            <marker date="1508808063603" expanded="true" signature="861:930" ph="SELECT user.... tweet" />
+            <marker date="1508808063603" expanded="true" signature="2103:2171" ph="SELECT user_... uid_tid_word" />
+            <marker date="1508808063603" expanded="true" signature="2103:2202" ph="SELECT user_... uid_tid_word" />
+            <marker date="1508808063603" expanded="true" signature="2533:2598" ph="SELECT user.... tweetdataframe" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spark_  module/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/filter_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-330">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/export_userprofile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-258">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-216">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

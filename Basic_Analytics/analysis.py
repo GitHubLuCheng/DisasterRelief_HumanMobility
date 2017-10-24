@@ -4,6 +4,7 @@ import export_userprofile
 import os
 import json
 
+
 source_root = '/home/garden/Desktop/Data Storm/DataSource/'
 geo_filter_root = '/home/garden/Desktop/Data Storm/DataSource/geo_filtered/'
 no_geo_file_root = '/home/garden/Desktop/Data Storm/DataSource/no_geo_data/'
@@ -12,10 +13,7 @@ ep_data_root = '/home/garden/Desktop/Data Storm/DataSource/exported_data/'
 DATA_TYPE = '.json'
 test_file_list = ['section_test.json', 'section_test_source.json']
 original_file_list = [
-    'HurricaneHarveyGeoMississippi.json',
-    'HurricaneHarvy.json',
-    'HurricaneHarveyGeo.json',
-    'HurricaneHarveyGeoFlorida.json',
+    'HurricaneHarveyGeoLouisiana.json'
 ]
 
 
@@ -59,8 +57,8 @@ def generate_userprofile():
         output_path = ep_data_root+filename.split('.')[0] + '_exp' + DATA_TYPE
         export_userprofile.export_geo_data(input_path,output_path)
 
-
-
+# geo_filt()
+# duplicate_filt(geo_filter_root,dup_filter_root,'_dup')
 # export_userprofile.export_geo_data('/home/garden/Desktop/Data Storm/DataSource/dup_filtered/HurricaneHarvy_geo_dup.json','/home/garden/Desktop/Data Storm/DataSource/test.json')
 # generate_userprofile()
 # validate('/home/garden/Desktop/Data Storm/DataSource/section_test_source_filtered.json')
@@ -68,7 +66,7 @@ def generate_userprofile():
 # geo_filt()
 # no_geo_filt()
 # duplicate_filt()
-duplicate_filt(no_geo_file_root,dup_filter_root,'_dup')
+# duplicate_filt(no_geo_file_root,dup_filter_root,'_dup')
 # load_data.get_data_pool(geo_filter_root+test_file_list[1])
 # load_data.get_data_pool(source_root+filename_ouput_3)
 # export_geo_data('/home/garden/Desktop/Data Storm/DataSource/section_test_source.json','/home/garden/Desktop/Data Storm/DataSource/test.json')
