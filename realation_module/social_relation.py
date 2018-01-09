@@ -1,7 +1,7 @@
 import json
 import time
 from twython import Twython, TwythonError
-import sparker
+import SPARK_Module.sparker
 def getFollowers(screen_name, streams, fetch_type,f_out):
     # print 'Getting {} of {}'.format(fetch_type,screen_name)
     timers = dict()
@@ -81,7 +81,7 @@ def getFollowers(screen_name, streams, fetch_type,f_out):
 
 # To fetch the name list from the file list
 def fetch_source_list(input_root,key):
-    return sparker.fetch_name_list(input_root,key)
+    return SPARK_Module.sparker.fetch_name_list(input_root, key)
 
 
 if __name__ == "__main__":
@@ -98,6 +98,7 @@ if __name__ == "__main__":
     f_out_follower = open(out_file_follower, 'w')
     f_out_following = open(out_file_following,'w')
     user_name_source = fetch_source_list(name_list_path,key)
+    print len(user_name_source)
     for screen_name in user_name_source:
         getFollowers(screen_name["user_name"], streams, "follower", f_out_follower)
         getFollowers(screen_name["user_name"], streams, "following", f_out_following)

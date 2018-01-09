@@ -1,8 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/SPARK_Module/fetch_topic.py" line="2" mnemonic="1" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="40c4de21-48f1-4e45-a546-5b14a0ffeb3c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/analysis.py" afterPath="$PROJECT_DIR$/analysis.py" />
+    <list default="true" id="40c4de21-48f1-4e45-a546-5b14a0ffeb3c" name="Default" comment="project">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Basic_Analytics/sparker.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SPARK_Module/NMF.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SPARK_Module/fetch_topic.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SPARK_Module/test_data/sample.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SPARK_Module/test_fetch_topic.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/realation_module/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/realation_module/followers.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/realation_module/followings.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/realation_module/friend_by_tweepy.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/realation_module/keys_1.txt" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SPARK_Module/sparker.py" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/SPARK_Module/social_relation.py" afterPath="$PROJECT_DIR$/realation_module/social_relation.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,12 +27,24 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/DisasterRelief_HumanMobility$social_relation__1_.coverage" NAME="social_relation (1) Coverage Results" MODIFIED="1508978250646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Friendship_Module" />
+    <SUITE FILE_PATH="coverage/DisasterRelief_HumanMobility$fetch_topic.coverage" NAME="fetch_topic Coverage Results" MODIFIED="1515289530645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SPARK_Module" />
+    <SUITE FILE_PATH="coverage/DisasterRelief_HumanMobility$NMF.coverage" NAME="NMF Coverage Results" MODIFIED="1515522018924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SPARK_Module" />
+    <SUITE FILE_PATH="coverage/DisasterRelief_HumanMobility$self_replicated.coverage" NAME="self_replicated Coverage Results" MODIFIED="1510609764206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DisasterRelief_HumanMobility$2017_11_13_14_44_11_347092.coverage" NAME="2017-11-13 14:44:11.347092 Coverage Results" MODIFIED="1510609463778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DisasterRelief_HumanMobility$social_relation.coverage" NAME="social_relation Coverage Results" MODIFIED="1509069304203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SPARK_Module" />
+    <SUITE FILE_PATH="coverage/DisasterRelief_HumanMobility$2017_11_13_14_44_23_787716.coverage" NAME="2017-11-13 14:44:23.787716 Coverage Results" MODIFIED="1510609534274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/DataStorm$test.coverage" NAME="test Coverage Results" MODIFIED="1506303544688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/DataStorm$analysis.coverage" NAME="analysis Coverage Results" MODIFIED="1507501643778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/DataStorm$spark_test.coverage" NAME="spark_test Coverage Results" MODIFIED="1508734446292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DisasterRelief_HumanMobility$sparker.coverage" NAME="sparker Coverage Results" MODIFIED="1514675055395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SPARK_Module" />
+    <SUITE FILE_PATH="coverage/DisasterRelief_HumanMobility$test_fetch_topic.coverage" NAME="test_fetch_topic Coverage Results" MODIFIED="1515539364837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SPARK_Module" />
     <SUITE FILE_PATH="coverage/Data_Exploration$spark_test.coverage" NAME="spark_test Coverage Results" MODIFIED="1508808063613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Data_Exploration$analysis.coverage" NAME="analysis Coverage Results" MODIFIED="1508801626914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DisasterRelief_HumanMobility$Retrieve_Follower.coverage" NAME="Retrieve_Follower Coverage Results" MODIFIED="1508972182676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Frienship_Module" />
     <SUITE FILE_PATH="coverage/DataStorm$load_data.coverage" NAME="load_data Coverage Results" MODIFIED="1506236789158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DisasterRelief_HumanMobility$spark_test__1_.coverage" NAME="spark_test (1) Coverage Results" MODIFIED="1508974343252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SPARK_Module" />
+    <SUITE FILE_PATH="coverage/DisasterRelief_HumanMobility$friend_by_tweepy.coverage" NAME="friend_by_tweepy Coverage Results" MODIFIED="1509078296060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SPARK_Module" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -30,57 +57,90 @@
     <expand />
     <select />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="DisasterRelief_HumanMobility" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="spark_test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spark_  module/spark_test.py">
+      <file leaf-file-name="fetch_topic.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SPARK_Module/fetch_topic.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1278">
-              <caret line="71" column="0" lean-forward="true" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+            <state relative-caret-position="309">
+              <caret line="27" column="15" lean-forward="true" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
               <folding>
-                <element signature="e#0#29#0" expanded="true" />
-                <marker date="1508808063603" expanded="true" signature="807:829" ph="SELECT text tweet" />
-                <marker date="1508808063603" expanded="true" signature="861:911" ph="SELECT con F... tweet" />
-                <marker date="1508808063603" expanded="true" signature="861:912" ph="SELECT COUNT... tweet" />
-                <marker date="1508808063603" expanded="true" signature="861:930" ph="SELECT user.... tweet" />
-                <marker date="1508808063603" expanded="true" signature="2103:2171" ph="SELECT user_... uid_tid_word" />
-                <marker date="1508808063603" expanded="true" signature="2103:2202" ph="SELECT user_... uid_tid_word" />
-                <marker date="1508808063603" expanded="true" signature="2533:2598" ph="SELECT user.... tweetdataframe" />
+                <element signature="e#24#33#0" expanded="true" />
+                <marker date="1515540911425" expanded="true" signature="7817:8003" ph="SELECT id_st... text_view" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="filter_data.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/filter_data.py">
+      <file leaf-file-name="part-00002-90be29a4-5c6f-463c-a4e5-2c97fc91ccad-c000.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SPARK_Module/HurricaneHarvy_geo_dup.json/part-00002-90be29a4-5c6f-463c-a4e5-2c97fc91ccad-c000.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-330">
+            <state relative-caret-position="18">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="part-00003-90be29a4-5c6f-463c-a4e5-2c97fc91ccad-c000.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SPARK_Module/HurricaneHarvy_geo_dup.json/part-00003-90be29a4-5c6f-463c-a4e5-2c97fc91ccad-c000.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sample.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SPARK_Module/test_data/sample.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="export_userprofile.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/export_userprofile.py">
+      <file leaf-file-name="NMF.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SPARK_Module/NMF.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-258">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="234">
+              <caret line="104" column="16" lean-forward="false" selection-start-line="104" selection-start-column="16" selection-end-line="104" selection-end-column="16" />
               <folding>
-                <element signature="e#0#16#0" expanded="true" />
+                <element signature="e#0#11#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="analysis.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/analysis.py">
+      <file leaf-file-name="sparker.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Basic_Analytics/sparker.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-216">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="16" />
+            <state relative-caret-position="18">
+              <caret line="83" column="43" lean-forward="false" selection-start-line="83" selection-start-column="43" selection-end-line="83" selection-end-column="43" />
               <folding>
-                <element signature="e#0#16#0" expanded="true" />
+                <marker date="1514677194576" expanded="true" signature="1663:1762" ph="SELECT user_... uid_tid_word" />
+                <marker date="1514677194576" expanded="true" signature="2589:2632" ph="SELECT geo.c... geo_view" />
+                <marker date="1514677194576" expanded="true" signature="3125:3212" ph="SELECT latit... cluster" />
+                <marker date="1514677194576" expanded="true" signature="3288:3325" ph="SELECT * FRO... location" />
+                <marker date="1514677194576" expanded="true" signature="3688:3751" ph="select lang,... language_view" />
+                <marker date="1514677194576" expanded="true" signature="4539:4613" ph="select date_... timestamp_view" />
+                <marker date="1514677194576" expanded="true" signature="5014:5165" ph="SELECT id_st... text_view" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_fetch_topic.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SPARK_Module/test_fetch_topic.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="11" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -94,22 +154,105 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>show</find>
+      <find>friendships/show</find>
+      <find>friendships</find>
+      <find>follower</find>
+      <find>friends</find>
+      <find>time</find>
+      <find>User</find>
+      <find>user_mentions</find>
+      <find>2865635925</find>
+      <find>quoted_status</find>
+      <find>&quot;retweeted&quot;:false</find>
+      <find>&quot;retweeted&quot;:</find>
+      <find>truncated</find>
+      <find>\xef</find>
+      <find>hashtags</find>
+      <find>the</find>
+      <find>#</find>
+      <find>@</find>
+      <find>they</find>
+      <find>reply_to</find>
+      <find>in_reply_to_user_id_str</find>
+      <find>np</find>
+      <find>reply</find>
+      <find>reply_to_screen_name</find>
+      <find>screen_name</find>
+      <find>in_reply_to_screen_name</find>
+      <find>new</find>
+      <find>log</find>
+      <find>pleas</find>
+      <find>staystrong</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Lu" />
+      </map>
+    </option>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/text.py" />
-        <option value="$PROJECT_DIR$/test.py" />
-        <option value="$PROJECT_DIR$/export_userprofile.py" />
-        <option value="$PROJECT_DIR$/tweet.py" />
         <option value="$PROJECT_DIR$/load_data.py" />
         <option value="$PROJECT_DIR$/filter_data.py" />
         <option value="$PROJECT_DIR$/spark_test.py" />
         <option value="$PROJECT_DIR$/spark_  module/spark_test.py" />
         <option value="$PROJECT_DIR$/analysis.py" />
         <option value="$PROJECT_DIR$/analysis.py" />
+        <option value="$PROJECT_DIR$/key_1.txt" />
+        <option value="$PROJECT_DIR$/followes.json" />
+        <option value="$PROJECT_DIR$/keys_1.txt" />
+        <option value="$PROJECT_DIR$/Frienship_Module/Retrieve_Follower.py" />
+        <option value="$PROJECT_DIR$/followers.json" />
+        <option value="$PROJECT_DIR$/followees.json" />
+        <option value="$PROJECT_DIR$/social_relation.py" />
+        <option value="$PROJECT_DIR$/Frienship_Module/social_relation.py" />
+        <option value="$PROJECT_DIR$/Friendship_Module/followings.json" />
+        <option value="$PROJECT_DIR$/Friendship_Module/followers.json" />
+        <option value="$PROJECT_DIR$/SPARK_Module/spark_test.py" />
+        <option value="$PROJECT_DIR$/Friendship_Module/social_relation.py" />
+        <option value="$PROJECT_DIR$/SPARK_Module/followings.json" />
+        <option value="$PROJECT_DIR$/SPARK_Module/followers.json" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/SPARK_Module/keys_1.txt" />
+        <option value="$PROJECT_DIR$/SPARK_Module/friend_by_tweepy.py" />
+        <option value="$PROJECT_DIR$/SPARK_Module/social_relation.py" />
+        <option value="$PROJECT_DIR$/SPARK_Module/spark-warehouse/s_l_HurricaneHarveyGeoFlorida_geo_dup.json/part-00000-354c1656-c247-40ae-b4f4-0f8948bbcae0-c000.json" />
+        <option value="$PROJECT_DIR$/SPARK_Module/spark-warehouse/l_d_HurricaneHarveyGeo_geo_dup.json/part-00000-3f09ff02-5a1d-4f00-a19e-ba8d122fda92-c000.json" />
+        <option value="$PROJECT_DIR$/self_replicated.py" />
+        <option value="$PROJECT_DIR$/SPARK_Module/spark-warehouse/User_Text.json/part-00000-2b25d35c-d1ed-4447-8755-11d5a60f8ce8-c000.json" />
+        <option value="$PROJECT_DIR$/SPARK_Module/spark-warehouse/User_Text.json/part-00000-fced91d8-2523-48b0-8734-6a96ce5419df-c000.json" />
+        <option value="$PROJECT_DIR$/SPARK_Module/sparker.py" />
+        <option value="$PROJECT_DIR$/SPARK_Module/test_data/sample_2.json" />
+        <option value="$PROJECT_DIR$/SPARK_Module/spark-warehouse/sample_filtered.json/part-00002-e24696e4-967b-469a-830a-39f7fcd7a2bb-c000.json" />
+        <option value="$PROJECT_DIR$/SPARK_Module/spark-warehouse/sample_filtered.json/part-00001-e24696e4-967b-469a-830a-39f7fcd7a2bb-c000.json" />
+        <option value="$PROJECT_DIR$/SPARK_Module/spark-warehouse/sample_filtered.json/part-00001-535e0bc8-3a1c-4f62-bf89-c30b3f42d622-c000.json" />
+        <option value="$PROJECT_DIR$/SPARK_Module/spark-warehouse/sample_filtered.json/part-00003-c70936a8-4ede-47e2-bccc-3ef3e6c22eb7-c000.json" />
+        <option value="$PROJECT_DIR$/SPARK_Module/spark-warehouse/sample_filtered.json/part-00001-c70936a8-4ede-47e2-bccc-3ef3e6c22eb7-c000.json" />
+        <option value="$PROJECT_DIR$/SPARK_Module/spark-warehouse/sample_filtered.json/part-00002-c70936a8-4ede-47e2-bccc-3ef3e6c22eb7-c000.json" />
+        <option value="$PROJECT_DIR$/SPARK_Module/spark-warehouse/sample_filtered.json/part-00002-6a5100ce-dd30-4a82-a328-99eeca67c792-c000.json" />
+        <option value="$PROJECT_DIR$/SPARK_Module/spark-warehouse/sample_filtered.json/part-00003-6a5100ce-dd30-4a82-a328-99eeca67c792-c000.json" />
+        <option value="$PROJECT_DIR$/SPARK_Module/spark-warehouse/sample_filtered.json/part-00001-6a5100ce-dd30-4a82-a328-99eeca67c792-c000.json" />
+        <option value="$PROJECT_DIR$/SPARK_Module/spark-warehouse/sample_filtered.json/part-00002-d2486b58-61d0-4148-bb67-8c0f10936569-c000.json" />
+        <option value="$PROJECT_DIR$/SPARK_Module/spark-warehouse/sample_filtered.json/part-00000-d2486b58-61d0-4148-bb67-8c0f10936569-c000.json" />
+        <option value="$PROJECT_DIR$/SPARK_Module/spark-warehouse/sample_filtered.json/part-00003-d2486b58-61d0-4148-bb67-8c0f10936569-c000.json" />
+        <option value="$PROJECT_DIR$/SPARK_Module/spark-warehouse/sample_filtered.json/part-00001-d2486b58-61d0-4148-bb67-8c0f10936569-c000.json" />
+        <option value="$PROJECT_DIR$/SPARK_Module/spark-warehouse/sample_filtered.json/part-00001-c5fdd249-97bb-4872-a47c-d59051349490-c000.json" />
+        <option value="$PROJECT_DIR$/SPARK_Module/spark-warehouse/sample_filtered.json/part-00002-c5fdd249-97bb-4872-a47c-d59051349490-c000.json" />
+        <option value="$PROJECT_DIR$/SPARK_Module/spark-warehouse/sample_filtered.json/part-00003-c5fdd249-97bb-4872-a47c-d59051349490-c000.json" />
+        <option value="$PROJECT_DIR$/SPARK_Module/test_data/sample.json" />
+        <option value="$PROJECT_DIR$/SPARK_Module/NMF.py" />
+        <option value="$PROJECT_DIR$/SPARK_Module/test_fetch_topic.py" />
+        <option value="$PROJECT_DIR$/SPARK_Module/fetch_topic.py" />
       </list>
     </option>
   </component>
@@ -120,10 +263,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-13" />
-    <option name="y" value="-4" />
-    <option name="width" value="1276" />
-    <option name="height" value="688" />
+    <option name="x" value="355" />
+    <option name="y" value="191" />
+    <option name="width" value="1273" />
+    <option name="height" value="720" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -141,31 +284,44 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Data_Exploration" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Data_Exploration" type="462c0819:PsiDirectoryNode" />
+              <item name="DisasterRelief_HumanMobility" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DisasterRelief_HumanMobility" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DisasterRelief_HumanMobility" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DisasterRelief_HumanMobility" type="462c0819:PsiDirectoryNode" />
+              <item name="SPARK_Module" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/spark_test.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/spark_  module" />
+      <recent name="$PROJECT_DIR$/Basic_Analytics" />
+      <recent name="$PROJECT_DIR$/SPARK_Module/history" />
+      <recent name="$PROJECT_DIR$/realation_module" />
+      <recent name="$PROJECT_DIR$/SPARK_Module" />
+      <recent name="$PROJECT_DIR$/Friendship_Module" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Input_Data/no_geo" />
+      <recent name="$PROJECT_DIR$/Input_Data/geo" />
+      <recent name="$PROJECT_DIR$/SPARK_Module" />
+      <recent name="$PROJECT_DIR$/SPARK_Module/spark-warehouse/userlist" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -181,8 +337,44 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.spark_test">
-    <configuration name="analysis" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.test_fetch_topic">
+    <configuration name="NMF" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SPARK_Module" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DataStorm" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SPARK_Module/NMF.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="fetch_topic" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SPARK_Module" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DataStorm" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SPARK_Module/fetch_topic.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="self_replicated" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -195,82 +387,69 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="DataStorm" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/analysis.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/self_replicated.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="load_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="sparker" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SPARK_Module" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="DataStorm" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/load_data.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic_Analytics/sparker.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="spark_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test_fetch_topic" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SPARK_Module" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="DataStorm" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spark_  module/spark_test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SPARK_Module/test_fetch_topic.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="DataStorm" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="Python.load_data" />
-      <item index="1" class="java.lang.String" itemvalue="Python.analysis" />
-      <item index="2" class="java.lang.String" itemvalue="Python.test" />
-      <item index="3" class="java.lang.String" itemvalue="Python.spark_test" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.sparker" />
+      <item index="1" class="java.lang.String" itemvalue="Python.self_replicated" />
+      <item index="2" class="java.lang.String" itemvalue="Python.fetch_topic" />
+      <item index="3" class="java.lang.String" itemvalue="Python.test_fetch_topic" />
+      <item index="4" class="java.lang.String" itemvalue="Python.NMF" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.spark_test" />
-        <item index="1" class="java.lang.String" itemvalue="Python.analysis" />
-        <item index="2" class="java.lang.String" itemvalue="Python.test" />
-        <item index="3" class="java.lang.String" itemvalue="Python.load_data" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.test_fetch_topic" />
+        <item index="1" class="java.lang.String" itemvalue="Python.NMF" />
+        <item index="2" class="java.lang.String" itemvalue="Python.fetch_topic" />
+        <item index="3" class="java.lang.String" itemvalue="Python.sparker" />
+        <item index="4" class="java.lang.String" itemvalue="Python.self_replicated" />
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -280,160 +459,299 @@
       <option name="presentableId" value="Default" />
       <updated>1506194093174</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add friendship module(include crawling the follower module an following module)">
+      <created>1508986802724</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1508986802724</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Refine the readme, set up the outline for the project">
+      <created>1508989622174</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1508989622174</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-13" y="-4" width="1303" height="780" extended-state="6" />
+    <frame x="355" y="191" width="1303" height="780" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21593626" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32988048" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33281493" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24940239" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3281493" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37209302" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17768924" sideWeight="0.49634275" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283721" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32988048" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293023" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32659408" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24875621" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32744187" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20453289" sideWeight="0.5036573" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45395347" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293023" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26976743" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24940239" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283721" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293023" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32186046" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32744187" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29163346" sideWeight="0.49634275" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32988048" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24875621" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20453289" sideWeight="0.5036573" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3934681" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add friendship module(include crawling the follower module an following module)" />
+    <MESSAGE value="Refine the readme, set up the outline for the project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refine the readme, set up the outline for the project" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="7" />
+      <option name="time" value="37" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00000-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
-    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00001-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
-    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00002-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
-    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00003-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
-    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00004-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
-    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00005-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
-    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00006-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
-    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00007-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
-    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00008-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
-    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00009-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
-    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00010-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
-    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00011-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
-    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00012-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
-    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00013-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
-    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00014-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
-    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00015-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
-    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00016-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
-    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00017-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
-    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00018-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
-    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00019-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
-    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00020-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
-    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00021-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
-    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00022-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
-    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00023-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
-    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00024-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
-    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00025-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
-    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00026-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
-    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00027-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
-    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00028-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
-    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00029-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
-    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00030-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
-    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00032-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
-    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00034-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
-    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00035-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
-    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00037-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
-    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00040-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
-    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00039-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
-    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00038-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
-    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00036-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
-    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00033-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
-    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00031-f3284e4e-e07b-41ea-9a1c-f38275f71395-c000.json" />
-    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_text.json/part-00000-2874c812-bc05-48af-b8f6-9612801bf128-c000.json">
+    <entry file="file://$PROJECT_DIR$/SPARK_Module/spark-warehouse/filtered_tweet.json/part-00003-fac9b93a-3c30-4e8b-8bcb-d77404f09efb-c000.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="31" lean-forward="false" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spark-warehouse/splited_uid_tid_word.json/part-00000-355e484f-45b0-4616-af96-a0ea22909c9e-c000.json">
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/pyspark/sql/session.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3276">
-          <caret line="7" column="31" lean-forward="false" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        <state relative-caret-position="151">
+          <caret line="334" column="0" lean-forward="false" selection-start-line="334" selection-start-column="0" selection-end-line="334" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00002-2fe5c2dd-2003-4f3b-8f41-d87cdf2dc972-c000.json">
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/pyspark/sql/types.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-11592">
-          <caret line="173" column="63" lean-forward="false" selection-start-line="173" selection-start-column="63" selection-end-line="173" selection-end-column="63" />
+        <state relative-caret-position="26838">
+          <caret line="1499" column="0" lean-forward="false" selection-start-line="1499" selection-start-column="0" selection-end-line="1499" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00003-2fe5c2dd-2003-4f3b-8f41-d87cdf2dc972-c000.json">
+    <entry file="file:///usr/lib/python2.7/dist-packages/numpy/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="854" column="62" lean-forward="false" selection-start-line="854" selection-start-column="62" selection-end-line="854" selection-end-column="62" />
+        <state relative-caret-position="1530">
+          <caret line="85" column="10" lean-forward="false" selection-start-line="85" selection-start-column="10" selection-end-line="85" selection-end-column="10" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spark-warehouse/uid_tid_word_frequency.json/part-00001-2fe5c2dd-2003-4f3b-8f41-d87cdf2dc972-c000.json">
+    <entry file="file:///usr/lib/python2.7/dist-packages/numpy/core/numeric.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4108">
-          <caret line="601" column="79" lean-forward="true" selection-start-line="601" selection-start-column="79" selection-end-line="601" selection-end-column="79" />
+        <state relative-caret-position="46278">
+          <caret line="2584" column="18" lean-forward="false" selection-start-line="2584" selection-start-column="12" selection-end-line="2584" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spark_  module/spark_test.py">
+    <entry file="file:///usr/lib/python2.7/dist-packages/numpy/core/fromnumeric.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1278">
-          <caret line="71" column="0" lean-forward="true" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-            <marker date="1508808063603" expanded="true" signature="807:829" ph="SELECT text tweet" />
-            <marker date="1508808063603" expanded="true" signature="861:911" ph="SELECT con F... tweet" />
-            <marker date="1508808063603" expanded="true" signature="861:912" ph="SELECT COUNT... tweet" />
-            <marker date="1508808063603" expanded="true" signature="861:930" ph="SELECT user.... tweet" />
-            <marker date="1508808063603" expanded="true" signature="2103:2171" ph="SELECT user_... uid_tid_word" />
-            <marker date="1508808063603" expanded="true" signature="2103:2202" ph="SELECT user_... uid_tid_word" />
-            <marker date="1508808063603" expanded="true" signature="2533:2598" ph="SELECT user.... tweetdataframe" />
-          </folding>
+        <state relative-caret-position="11700">
+          <caret line="661" column="11" lean-forward="false" selection-start-line="661" selection-start-column="11" selection-end-line="661" selection-end-column="11" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spark_  module/__init__.py">
+    <entry file="file://$PROJECT_DIR$/Input_Data/geo/HurricaneHarveyGeoFlorida_geo_dup.json">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="504">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Input_Data/geo/HurricaneHarveyGeo_geo_dup.json">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="936">
+          <caret line="52" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Input_Data/geo/HurricaneHarvy_geo_dup.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60354">
+          <caret line="3353" column="78" lean-forward="false" selection-start-line="3353" selection-start-column="78" selection-end-line="3353" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SPARK_Module/spark-warehouse/filtered_tweet.json/part-00000-fac9b93a-3c30-4e8b-8bcb-d77404f09efb-c000.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="43" column="24" lean-forward="false" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SPARK_Module/sample_filtered.json/part-00002-6a80503e-4085-4d3b-be12-a9b5eebe109e-c000.json" />
+    <entry file="file://$PROJECT_DIR$/SPARK_Module/sample_filtered.json/part-00003-6a80503e-4085-4d3b-be12-a9b5eebe109e-c000.json" />
+    <entry file="file://$PROJECT_DIR$/SPARK_Module/sample_filtered.json/part-00001-6a80503e-4085-4d3b-be12-a9b5eebe109e-c000.json" />
+    <entry file="file://$PROJECT_DIR$/SPARK_Module/sample_filtered.json/part-00000-6a80503e-4085-4d3b-be12-a9b5eebe109e-c000.json" />
+    <entry file="file://$PROJECT_DIR$/SPARK_Module/sample_filtered.json/part-00000-ab6bb22d-c992-4d81-85c3-80064523442e-c000.json" />
+    <entry file="file://$PROJECT_DIR$/SPARK_Module/sample_filtered.json/part-00001-ab6bb22d-c992-4d81-85c3-80064523442e-c000.json" />
+    <entry file="file://$PROJECT_DIR$/SPARK_Module/sample_filtered.json/part-00002-ab6bb22d-c992-4d81-85c3-80064523442e-c000.json" />
+    <entry file="file://$PROJECT_DIR$/SPARK_Module/sample_filtered.json/part-00003-ab6bb22d-c992-4d81-85c3-80064523442e-c000.json" />
+    <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-1247972723/numpy/core/umath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="2530" column="13" lean-forward="false" selection-start-line="2530" selection-start-column="4" selection-end-line="2530" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python2.7/dist-packages/numpy/lib/ufunclike.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="112" column="4" lean-forward="false" selection-start-line="112" selection-start-column="4" selection-end-line="112" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python2.7/dist-packages/numpy/lib/type_check.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="370" column="0" lean-forward="false" selection-start-line="370" selection-start-column="0" selection-end-line="370" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SPARK_Module/sample_filtered2.json/part-00002-041b9a0c-3e53-43d8-9e16-b6afee3e87e2-c000.json" />
+    <entry file="file://$PROJECT_DIR$/SPARK_Module/sample_filtered2.json/part-00001-041b9a0c-3e53-43d8-9e16-b6afee3e87e2-c000.json" />
+    <entry file="file://$PROJECT_DIR$/SPARK_Module/sample_filtered.json/part-00003-5f8583b9-6fc1-4402-90f7-fbf0ea5b8173-c000.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SPARK_Module/sample_filtered.json/part-00002-5f8583b9-6fc1-4402-90f7-fbf0ea5b8173-c000.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SPARK_Module/sample_filtered.json/part-00001-5f8583b9-6fc1-4402-90f7-fbf0ea5b8173-c000.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SPARK_Module/sample_filtered.json/part-00000-5f8583b9-6fc1-4402-90f7-fbf0ea5b8173-c000.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SPARK_Module/sample_filtered2.json/part-00000-041b9a0c-3e53-43d8-9e16-b6afee3e87e2-c000.json" />
+    <entry file="file://$PROJECT_DIR$/SPARK_Module/sample_filtered2.json/part-00001-5f01412f-fc3e-47b0-8d5f-75317c707541-c000.json" />
+    <entry file="file://$PROJECT_DIR$/SPARK_Module/sample_filtered2.json/part-00000-5f01412f-fc3e-47b0-8d5f-75317c707541-c000.json" />
+    <entry file="file://$PROJECT_DIR$/SPARK_Module/sample_filtered2.json/part-00002-5f01412f-fc3e-47b0-8d5f-75317c707541-c000.json" />
+    <entry file="file://$PROJECT_DIR$/SPARK_Module/sample_filtered2.json/part-00003-5f01412f-fc3e-47b0-8d5f-75317c707541-c000.json" />
+    <entry file="file://$PROJECT_DIR$/SPARK_Module/HurricaneHarvy_geo_dup.json/part-00001-90be29a4-5c6f-463c-a4e5-2c97fc91ccad-c000.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SPARK_Module/HurricaneHarvy_geo_dup.json/part-00000-90be29a4-5c6f-463c-a4e5-2c97fc91ccad-c000.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SPARK_Module/HurricaneHarvy_geo_dup.json/part-00002-90be29a4-5c6f-463c-a4e5-2c97fc91ccad-c000.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SPARK_Module/HurricaneHarvy_geo_dup.json/part-00003-90be29a4-5c6f-463c-a4e5-2c97fc91ccad-c000.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SPARK_Module/test_data/sample.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -441,31 +759,128 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/filter_data.py">
+    <entry file="file://$PROJECT_DIR$/SPARK_Module/sample_filtered2.json/part-00000-45a80fb9-3773-4db3-a441-7c6755983a61-c000.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-330">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/export_userprofile.py">
+    <entry file="file://$PROJECT_DIR$/SPARK_Module/sample_filtered2.json/part-00001-45a80fb9-3773-4db3-a441-7c6755983a61-c000.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-258">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SPARK_Module/sample_filtered2.json/part-00003-45a80fb9-3773-4db3-a441-7c6755983a61-c000.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SPARK_Module/sample_filtered2.json/part-00002-45a80fb9-3773-4db3-a441-7c6755983a61-c000.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SPARK_Module/sample_filtered2.json/part-00000-578840fd-e0a2-4170-87f5-d2c56204f178-c000.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SPARK_Module/sample_filtered2.json/part-00001-578840fd-e0a2-4170-87f5-d2c56204f178-c000.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SPARK_Module/sample_filtered2.json/part-00002-578840fd-e0a2-4170-87f5-d2c56204f178-c000.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SPARK_Module/sample_filtered2.json/part-00003-578840fd-e0a2-4170-87f5-d2c56204f178-c000.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SPARK_Module/NMF.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="104" column="16" lean-forward="false" selection-start-line="104" selection-start-column="16" selection-end-line="104" selection-end-column="16" />
           <folding>
-            <element signature="e#0#16#0" expanded="true" />
+            <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/analysis.py">
+    <entry file="file://$PROJECT_DIR$/Basic_Analytics/sparker.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-216">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="16" />
+        <state relative-caret-position="18">
+          <caret line="83" column="43" lean-forward="false" selection-start-line="83" selection-start-column="43" selection-end-line="83" selection-end-column="43" />
           <folding>
-            <element signature="e#0#16#0" expanded="true" />
+            <marker date="1514677194576" expanded="true" signature="1663:1762" ph="SELECT user_... uid_tid_word" />
+            <marker date="1514677194576" expanded="true" signature="2589:2632" ph="SELECT geo.c... geo_view" />
+            <marker date="1514677194576" expanded="true" signature="3125:3212" ph="SELECT latit... cluster" />
+            <marker date="1514677194576" expanded="true" signature="3288:3325" ph="SELECT * FRO... location" />
+            <marker date="1514677194576" expanded="true" signature="3688:3751" ph="select lang,... language_view" />
+            <marker date="1514677194576" expanded="true" signature="4539:4613" ph="select date_... timestamp_view" />
+            <marker date="1514677194576" expanded="true" signature="5014:5165" ph="SELECT id_st... text_view" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SPARK_Module/test_fetch_topic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="11" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SPARK_Module/fetch_topic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="27" column="15" lean-forward="true" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
+          <folding>
+            <element signature="e#24#33#0" expanded="true" />
+            <marker date="1515540911425" expanded="true" signature="7817:8003" ph="SELECT id_st... text_view" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SPARK_Module/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic_Analytics/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
