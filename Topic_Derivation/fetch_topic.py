@@ -1,15 +1,15 @@
 # -*- coding: utf-8 -*-
-import re
 import math
 import numpy as np
-import NMF as nmf
+import re
+from operator import add
+
 from nltk.corpus import stopwords
 from nltk.stem import PorterStemmer
 from nltk.tokenize import word_tokenize
 from pyspark import SparkConf
 from pyspark.sql import Row
 from pyspark.sql import SparkSession
-from operator import add
 
 conf = SparkConf().setAppName("Python Spark SQL").setMaster("local[4]").set('spark.debug.maxToStringFields', 100).set(
     'spark.sql.shuffle.partitions', 20)
@@ -187,11 +187,11 @@ def NMijF_jp(tt_matrix, tw_matrix, k_topic, alpha):
     observation = 0
     for i in range(30):
         print "Fatoring..."+str(float(i)/30.0) + "%"
-        W = nmf.update_a(W, Y, tt_matrix)
-        Y = nmf.update_x(W, Y, tt_matrix)
-        H = nmf.update_x(W, H, tw_matrix)
-        di = nmf.divergence_function(tt_matrix, np.dot(W, Y))
-        dj = nmf.divergence_function(tw_matrix, np.dot(W, H))
+        W = NMF.update_a(W, Y, tt_matrix)
+        Y = NMF.update_x(W, Y, tt_matrix)
+        H = NMF.update_x(W, H, tw_matrix)
+        di = NMF.divergence_function(tt_matrix, np.dot(W, Y))
+        dj = NMF.divergence_function(tw_matrix, np.dot(W, H))
         if (object_function(di, dj, alpha) - observation) < 0.001:
             break
         observation = object_function(di, dj, alpha)
