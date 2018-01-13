@@ -11,6 +11,8 @@ from pyspark import SparkConf
 from pyspark.sql import Row
 from pyspark.sql import SparkSession
 
+import NMF
+
 conf = SparkConf().setAppName("Python Spark SQL").setMaster("local[4]").set('spark.debug.maxToStringFields', 100).set(
     'spark.sql.shuffle.partitions', 20)
 spark = SparkSession.builder.appName("Tweet Analytics").config(conf=conf).getOrCreate()
